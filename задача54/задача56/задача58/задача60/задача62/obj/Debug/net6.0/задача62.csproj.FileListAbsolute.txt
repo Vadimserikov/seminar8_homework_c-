@@ -1,0 +1,15 @@
+/Users/vadimserikov/Desktop/seminar8_homework_c#/задача54/задача56/задача58/задача60/задача62/bin/Debug/net6.0/задача62
+/Users/vadimserikov/Desktop/seminar8_homework_c#/задача54/задача56/задача58/задача60/задача62/bin/Debug/net6.0/задача62.deps.json
+/Users/vadimserikov/Desktop/seminar8_homework_c#/задача54/задача56/задача58/задача60/задача62/bin/Debug/net6.0/задача62.runtimeconfig.json
+/Users/vadimserikov/Desktop/seminar8_homework_c#/задача54/задача56/задача58/задача60/задача62/bin/Debug/net6.0/задача62.dll
+/Users/vadimserikov/Desktop/seminar8_homework_c#/задача54/задача56/задача58/задача60/задача62/bin/Debug/net6.0/задача62.pdb
+/Users/vadimserikov/Desktop/seminar8_homework_c#/задача54/задача56/задача58/задача60/задача62/obj/Debug/net6.0/задача62.csproj.AssemblyReference.cache
+/Users/vadimserikov/Desktop/seminar8_homework_c#/задача54/задача56/задача58/задача60/задача62/obj/Debug/net6.0/задача62.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadimserikov/Desktop/seminar8_homework_c#/задача54/задача56/задача58/задача60/задача62/obj/Debug/net6.0/задача62.AssemblyInfoInputs.cache
+/Users/vadimserikov/Desktop/seminar8_homework_c#/задача54/задача56/задача58/задача60/задача62/obj/Debug/net6.0/задача62.AssemblyInfo.cs
+/Users/vadimserikov/Desktop/seminar8_homework_c#/задача54/задача56/задача58/задача60/задача62/obj/Debug/net6.0/задача62.csproj.CoreCompileInputs.cache
+/Users/vadimserikov/Desktop/seminar8_homework_c#/задача54/задача56/задача58/задача60/задача62/obj/Debug/net6.0/задача62.dll
+/Users/vadimserikov/Desktop/seminar8_homework_c#/задача54/задача56/задача58/задача60/задача62/obj/Debug/net6.0/refint/задача62.dll
+/Users/vadimserikov/Desktop/seminar8_homework_c#/задача54/задача56/задача58/задача60/задача62/obj/Debug/net6.0/задача62.pdb
+/Users/vadimserikov/Desktop/seminar8_homework_c#/задача54/задача56/задача58/задача60/задача62/obj/Debug/net6.0/задача62.genruntimeconfig.cache
+/Users/vadimserikov/Desktop/seminar8_homework_c#/задача54/задача56/задача58/задача60/задача62/obj/Debug/net6.0/ref/задача62.dll

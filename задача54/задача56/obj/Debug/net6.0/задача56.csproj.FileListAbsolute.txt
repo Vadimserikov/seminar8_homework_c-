@@ -1,0 +1,5 @@
+/Users/vadimserikov/Desktop/seminar8_homework_c#/задача54/задача56/obj/Debug/net6.0/задача56.csproj.AssemblyReference.cache
+/Users/vadimserikov/Desktop/seminar8_homework_c#/задача54/задача56/obj/Debug/net6.0/задача56.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadimserikov/Desktop/seminar8_homework_c#/задача54/задача56/obj/Debug/net6.0/задача56.AssemblyInfoInputs.cache
+/Users/vadimserikov/Desktop/seminar8_homework_c#/задача54/задача56/obj/Debug/net6.0/задача56.AssemblyInfo.cs
+/Users/vadimserikov/Desktop/seminar8_homework_c#/задача54/задача56/obj/Debug/net6.0/задача56.csproj.CoreCompileInputs.cache
